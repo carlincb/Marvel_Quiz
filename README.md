@@ -38,16 +38,18 @@ Although this is simply a webpage and no installation is necessary, there were c
     THEN the game is over
     WHEN the game is over
     THEN I can save my initials and my score
-    
+
 ## Usage
 Please see below for examples of this webpage, which demonstrate its functionality:
 
 ### Main Page
 
-![1]()
+![1](assets/images/MainPage.png)
 
 ## Credits
 - https://javascript.info/
+- https://fonts.google.com/ 
+- https://unsplash.com/photos/8SeJUmfahu0
 - https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-virt-fsf-pt-08-2021-u-c/-/tree/master/04-Week_Web-APIs/02-Homework
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
