@@ -44,7 +44,7 @@ Please see below for examples of this webpage, which demonstrate its functionali
 
 ### Main Page
 
-![1](assets/images/MainPage.png)
+![1](assets/images/MainPage.JPG)
 
 ## Credits
 - https://javascript.info/
